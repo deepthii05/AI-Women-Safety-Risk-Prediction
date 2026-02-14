@@ -22,3 +22,10 @@ The Random Forest model achieved high accuracy and successfully identified high-
 - Pandas, NumPy
 - Scikit-learn
 - Matplotlib, Seaborn
+
+## Outputs
+Screenshots of:
+- Model accuracy
+- Confusion matrix
+- Risk level prediction
+are uploaded in this repository.
